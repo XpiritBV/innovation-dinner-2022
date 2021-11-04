@@ -6,31 +6,34 @@ The menu:
 
 ## Amuse bouche
 
-### Cap Theorem
+### 🍄 Cap Theorem
 
 Mushrooms rusticana
 
-### PEEK and POKE
+### 🍜 PEEK and POKE
 
 Mini crayfish poké bowl and simply Ponzu Sauce
 
-## Chop up the monolith
+## 🍅 Chop up the monolith
 
 Tartare of Italian tomatoes, aged farmhouse chees, lemon mayonnaise, truffle paper, frisée salad
 
-## Deploy the lobster
+## 🦞 Deploy the lobster
 
 Strong broth, ras el hanout, butternut squash, grilled lobster.
 
-## Rollback is for chickens
+## 🐣 Rollback is for chickens
 
 Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, sweet potato cream.
 
-## Pets vs. Cattle
+## 🥩 Pets vs. Cattle
 
 Wagyu sirloin steak, red wine sauce, mushrooms and grilled spring onions.
 
-## Someone moved my cheese
+## 🧀 Someone moved my cheese
 
 Goat cheese, toasted stollen, crème brûlée, duck liver, stewed pear.
 
+## 🍧 Start with the end in mind
+
+Orange parfait, caramel, apricot gel, sponge cake, Jasmine blossom
