@@ -30,4 +30,7 @@ Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, swe
 
 Wagyu sirloin steak, red wine sauce, mushrooms and grilled spring onions.
 
+## Someone moved my cheese
+
+Goat cheese, toasted stollen, crème brûlée, duck liver, stewed pear.
 
