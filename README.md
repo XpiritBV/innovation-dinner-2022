@@ -26,3 +26,8 @@ Strong broth, ras el hanout, butternut squash, grilled lobster.
 
 Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, sweet potato cream.
 
+## Pets vs. Cattle
+
+Wagyu sirloin steak, red wine sauce, mushrooms and grilled spring onions.
+
+
