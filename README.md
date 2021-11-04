@@ -4,7 +4,7 @@ This repo contains the recipes for the Xpirit Innovation Dinner that was cooked 
 
 The menu:
 
-## Amuse bouche
+## Amuse-bouche
 
 ### 🍄 Cap Theorem
 
@@ -16,7 +16,7 @@ Mini crayfish poké bowl and simply Ponzu Sauce
 
 ## 🍅 Chop up the monolith
 
-Tartare of Italian tomatoes, aged farmhouse chees, lemon mayonnaise, truffle paper, frisée salad
+Tartare of Italian tomatoes, aged farmhouse cheese, lemon mayonnaise, truffle paper, frisée salad
 
 ## 🦞 Deploy the lobster
 
