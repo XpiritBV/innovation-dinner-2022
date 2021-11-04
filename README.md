@@ -1,2 +1,20 @@
-# innovation-dinner-2021
-Recipes for recreating the Innovation Dinner 2021
+# Xpirit Innovation Dinner 2021
+
+This repo contains the recipes for the Xpirit Innovation Dinner that was cooked for you on November 26th. The recipes are created by chef Marco Derksen from [Kookstudio75](http://www.kookstudio75.nl) and written up in [CookLang](https://cooklang.org).
+
+The menu:
+
+## Amuse bouche
+### Cap Theorem
+
+Mushrooms rusticana
+
+### PEEK and POKE
+
+Mini crayfish poké bowl and simply Ponzu Sauce
+
+## Chop up the monolith
+
+Tartare of Italian tomatoes, aged farmhouse chees, lemon mayonnaise, truffle paper, frisee salad
+
+ 
