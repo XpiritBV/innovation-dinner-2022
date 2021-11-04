@@ -22,3 +22,7 @@ Tartare of Italian tomatoes, aged farmhouse chees, lemon mayonnaise, truffle pap
 
 Strong broth, ras el hanout, butternut squash, grilled lobster.
 
+## Rollback is for chickens
+
+Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, sweet potato cream.
+
