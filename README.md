@@ -15,6 +15,5 @@ Mini crayfish poké bowl and simply Ponzu Sauce
 
 ## Chop up the monolith
 
-Tartare of Italian tomatoes, aged farmhouse chees, lemon mayonnaise, truffle paper, frisee salad
+Tartare of Italian tomatoes, aged farmhouse chees, lemon mayonnaise, truffle paper, frisée salad
 
- 
