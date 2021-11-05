@@ -4,21 +4,25 @@ This repo contains the recipes for the Xpirit Innovation Dinner that was cooked 
 
 The menu:
 
-## Amuse-bouche
+## Start your Epic 💩 journey
 
-### 🍄 Cap Theorem
+### 🍄 Cap theorem
 
-Mushrooms rusticana
+Marinated mushroom caps with rusticana.
 
 ### 🍜 PEEK and POKE
 
-Mini crayfish poké bowl and simply Ponzu Sauce
+Mini crayfish poké bowl and Simply Ponzu sauce.
+
+🍷 _Vecchia Torre Salento Vermentino 2020_
 
 ## 🍅 Chop up the monolith
 
-Tartare of Italian tomatoes, aged farmhouse cheese, lemon mayonnaise, truffle paper, frisée salad
+Tartare of Italian tomatoes, aged farmhouse cheese, lemon mayonnaise, truffle paper, frisée salad.
 
-## 🦞 Deploy the lobster
+🍷 _Castelo de Medina Rueda Vendimia Seleccionada Verdejo 2020_
+
+## 🦞 Zero downtime deployment of accidentally complex flavours
 
 Strong broth, ras el hanout, butternut squash, grilled lobster.
 
@@ -26,14 +30,26 @@ Strong broth, ras el hanout, butternut squash, grilled lobster.
 
 Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, sweet potato cream.
 
-## 🥩 Pets vs. Cattle
+🍷 _Stefano Accordini Valpolicella Classico_
+
+## 🥩 Cattle vs. pets
 
 Wagyu sirloin steak, red wine sauce, mushrooms and grilled spring onions.
 
-## 🧀 Someone moved my cheese
+🍷 _Château Cap Saint-Martin Blaye Côtes de Bordeaux Le Cabernet d'en Face 2018_
+
+## 🧀 Did someone move my cheese?
 
 Goat cheese, toasted stollen, crème brûlée, duck liver, stewed pear.
 
+🍷 _Rheinhessen Beerenauslese 2018_
+
 ## 🍧 Start with the end in mind
 
-Orange parfait, caramel, apricot gel, sponge cake, Jasmine blossom
+Parfait, caramel, apricot gel, sponge cake, Jasmine blossom.
+
+🍷 _Venâncio da Costa Lima Moscatel de Sétubal Pioneiro 2017_
+
+## ☕️ Blameless learning retrospective
+
+Coffee and sweets.
