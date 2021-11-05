@@ -52,4 +52,4 @@ Parfait, caramel, apricot gel, sponge cake, Jasmine blossom.
 
 ## ☕️ Blameless learning retrospective
 
-Coffee and sweets.
+Coffee and sweets from [Friandries](https://www.friandries.nl).
