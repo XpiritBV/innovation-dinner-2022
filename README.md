@@ -30,7 +30,7 @@ Strong broth, ras el hanout, butternut squash, grilled lobster.
 
 Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, sweet potato cream.
 
-🍷 [_Stefano Accordini Valpolicella Classico_](https://www.vivino.com/NL/nl/azienda-agricola-accordini-stefano-valpolicella-classico/w/97281)
+🍷 [_Stefano Accordini Valpolicella Classico 2018_](https://www.vivino.com/NL/nl/azienda-agricola-accordini-stefano-valpolicella-classico/w/97281)
 
 ## 🥩 Cattle vs. pets
 
