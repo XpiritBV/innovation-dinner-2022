@@ -1,6 +1,6 @@
-# Xpirit Innovation Dinner 2021
+# Xpirit Innovation Dinner 2022
 
-This repo contains the recipes for the Xpirit Innovation Dinner that was cooked for you on November 26th. The recipes are created by chef Marco Derksen from [Kookstudio75](http://www.kookstudio75.nl) and written up in [CookLang](https://cooklang.org).
+This repo contains the recipes for the Xpirit Innovation Dinner that was cooked for you on May 20th. The recipes are created by chef Marco Derksen from [Kookstudio75](http://www.kookstudio75.nl) and written up in [CookLang](https://cooklang.org).
 
 The menu:
 
@@ -24,13 +24,13 @@ Tartare of Italian tomatoes, aged farmhouse cheese, lemon mayonnaise, truffle pa
 
 ## 🦞 Zero downtime deployment of accidentally complex flavours
 
-Strong broth, ras el hanout, butternut squash, grilled lobster.
+Aparagus soup, grilled lobster, vanilla.
 
 ## 🐣 Rollback is for chickens
 
 Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, sweet potato cream.
 
-🍷 [_Stefano Accordini Valpolicella Classico 2018_](https://www.vivino.com/NL/nl/azienda-agricola-accordini-stefano-valpolicella-classico/w/97281)
+🍷 [_Le Clos du Caillou Côtes du Rhône Le Caillou Rouge 2021_](https://www.appeldoorn.nl/product/1057490111/le-clos-du-caillou-cotes-du-rhone-le-caillou-rouge-2021)
 
 ## 🥩 Cattle vs. pets
 
@@ -40,16 +40,24 @@ Wagyu sirloin steak, red wine sauce, mushrooms and grilled spring onions.
 
 ## 🧀 Did someone move my cheese?
 
-Goat cheese, toasted stollen, crème brûlée, duck liver, stewed pear.
+Calvados camembert, burnt honey, green apple.
 
 🍷 _Rheinhessen Beerenauslese 2018_
 
 ## 🍧 Start with the end in mind
 
-Parfait, caramel, apricot gel, sponge cake, Jasmine blossom.
+Ganache, caramel, apricot gel, sponge cake, Jasmine blossom.
 
 🍷 [_Venâncio da Costa Lima Moscatel de Sétubal Pioneiro 2017_](https://www.appeldoorn.nl/product/1054370111/venancio-da-costa-lima-moscatel-de-setubal-pioneiro-2017)
 
 ## ☕️ Blameless learning retrospective
+
+### 🤡 Can I order a Platte Pipo here or how sit that?
+
+_The classic "Platte Pipo" dessert in miniature form._
+
+Butterscotch ice cream, wafer hat & chocolate fantasy. Ask Alex for the background story.
+
+### ⚡ Choc your senses
 
 Coffee and sweets from [Friandries](https://www.friandries.nl).
