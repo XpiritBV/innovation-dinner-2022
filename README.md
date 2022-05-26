@@ -34,7 +34,7 @@ Spring chicken breasts with laurel and thyme, tarragon gravy, fried shallot, swe
 
 ## 🥩 Cattle vs. pets
 
-Wagyu sirloin steak, red wine sauce, mushrooms and grilled spring onions.
+Wagyu sirloin steak, red wine sauce, trufle, asparagus.
 
 🍷 [_Château Cap Saint-Martin Blaye Côtes de Bordeaux Le Cabernet d'en Face 2018_](https://www.appeldoorn.nl/product/1052380111/chateau-cap-saint-martin-blaye-cotes-de-bordeaux-le-cabernet-den-face-2018)
 
